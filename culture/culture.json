@@ -2,78 +2,49 @@
   {
     "id": "maroon_heritage",
     "title": "Maroon Heritage",
-    "description": "The Jamaican Maroons are descendants of Africans who escaped slavery during Spanish and British colonial rule, forming autonomous communities in Jamaica’s mountainous interior. These groups—most famously in Moore Town and Accompong—negotiated treaties with the British in the 18th century, securing land and self-governance. Maroon culture blends West and Central African traditions, including the Kromanti language, spiritual ceremonies, and the use of the abeng horn for communication. Despite missionary suppression and economic migration, Maroon communities continue to preserve their heritage through festivals, oral history, and communal land systems.",
-    "mapURL": "https://maps.apple.com/?q=Moore+Town,+Jamaica",
-    "mapContext": "Moore Town is a living Maroon settlement in the Blue Mountains, where ancestral traditions like Kromanti Play and abeng signaling still endure."
-  },
-  {
-    "id": "rastafari",
-    "title": "Rastafari Movement",
-    "description": "Emerging in the 1930s, Rastafari is a spiritual and cultural movement rooted in resistance to colonialism and reverence for African heritage. Followers honor Emperor Haile Selassie I of Ethiopia as the divine Jah and embrace principles of unity, natural living, and repatriation. Rastafari has profoundly shaped Jamaican identity through dreadlocks, ital food, and reggae music, especially via global icons like Bob Marley.",
-    "mapURL": "https://maps.apple.com/?q=Nine+Mile,+Jamaica",
-    "mapContext": "Nine Mile is Bob Marley's birthplace and a pilgrimage site for Rastafari followers."
-  },
-  {
-    "id": "patois_language",
-    "title": "Jamaican Patois",
-    "description": "Jamaican Patois (Patwa) is a vibrant Creole language blending English with West African syntax and vocabulary. Spoken by nearly all Jamaicans, it’s a symbol of cultural pride and resilience. Once stigmatized, Patois now thrives in music, literature, and everyday life, preserving oral traditions and offering a voice to the people.",
-    "mapURL": "https://maps.apple.com/?q=Kingston,+Jamaica",
-    "mapContext": "Kingston is a linguistic melting pot where Patois shapes street talk, media, and music."
+    "description": "The Jamaican Maroons are descendants of Africans who escaped slavery during Spanish and British colonial rule, forming autonomous communities in Jamaica’s mountainous interior. These groups—most famously in Moore Town and Accompong—negotiated treaties with the British in the 18th century, securing land and self-governance. Maroon culture blends West and Central African traditions, including the Kromanti language, spiritual ceremonies, and the use of the abeng horn for communication.",
+    "mapURL": "https://maps.apple.com/?q=Moore+Town,+Jamaica"
   },
   {
     "id": "jerk_cuisine",
     "title": "Jerk Cuisine",
-    "description": "Jerk cooking is a fiery, flavorful tradition rooted in Maroon survival techniques. Meat is dry-rubbed or marinated with spices like allspice and Scotch bonnet, then slow-cooked over pimento wood. Originally used to preserve wild game, jerk has become a national culinary symbol, celebrated in roadside stalls and global restaurants alike.",
-    "mapURL": "https://maps.apple.com/?q=Boston+Bay,+Jamaica",
-    "mapContext": "Boston Bay is considered the birthplace of jerk, hosting annual festivals and legendary vendors."
+    "description": "Jerk cooking is a fiery, flavorful tradition rooted in Maroon resistance. It blends African seasoning techniques with indigenous Taino methods, using pimento wood and Scotch bonnet peppers to create smoky, spicy meats. Boston Bay in Portland is considered the birthplace of jerk, where roadside pits still serve up authentic chicken and pork.",
+    "mapURL": "https://maps.apple.com/?q=Boston+Bay,+Jamaica"
   },
   {
-    "id": "jonkonnu_festival",
-    "title": "Jonkonnu Festival",
-    "description": "Jonkonnu is a vibrant masquerade tradition blending African dance, European costume, and Caribbean satire. Celebrated during Christmas, it features masked performers like Pitchy Patchy and Cow Head, accompanied by drumming and street parades. Once a form of enslaved resistance, Jonkonnu remains a living expression of Jamaican creativity and defiance.",
-    "mapURL": "https://maps.apple.com/?q=Montego+Bay,+Jamaica",
-    "mapContext": "Montego Bay hosts Jonkonnu performances during holiday celebrations and cultural events."
+    "id": "rastafari_movement",
+    "title": "Rastafari Movement",
+    "description": "Emerging in the 1930s, Rastafari is a spiritual and cultural movement that reveres Haile Selassie I of Ethiopia as divine. It promotes African identity, resistance to oppression, and a return to roots. Rastafari has shaped Jamaican music, language, and global consciousness—especially through reggae and icons like Bob Marley.",
+    "mapURL": "https://maps.apple.com/?q=Trench+Town,+Jamaica"
   },
   {
-    "id": "anansi_folklore",
-    "title": "Anansi Stories",
-    "description": "Anansi the spider is a beloved trickster from West African folklore, carried to Jamaica through oral tradition. Clever, mischievous, and resourceful, Anansi outwits stronger foes using wit and humor. His tales teach moral lessons and preserve African storytelling rhythms, remaining central to Jamaican childhood and cultural identity.",
-    "mapURL": "https://maps.apple.com/?q=St.+Elizabeth,+Jamaica",
-    "mapContext": "St. Elizabeth is known for preserving oral traditions, including Anansi storytelling in schools and homes."
-  },
-  {
-    "id": "kumina_spirituality",
-    "title": "Kumina Spiritual Practice",
-    "description": "Kumina is an Afro-Jamaican religion rooted in Central African traditions, brought by post-emancipation migrants. It features spirit possession, drumming, and dance rituals honoring ancestors and deities. Practiced mainly in St. Thomas, Kumina blends Christian elements with African cosmology, offering healing, guidance, and cultural continuity.",
-    "mapURL": "https://maps.apple.com/?q=St.+Thomas,+Jamaica",
-    "mapContext": "St. Thomas is the heartland of Kumina, where ceremonies and drumming rituals are still held."
-  },
-  {
-    "id": "emancipation_day",
-    "title": "Emancipation Day",
-    "description": "Celebrated on August 1st, Emancipation Day marks the end of slavery in Jamaica in 1838. It honors the resilience of ancestors and the struggle for freedom. Events include reenactments, concerts, and ceremonies at heritage sites like Seville and Spanish Town, reinforcing national pride and historical memory.",
-    "mapURL": "https://maps.apple.com/?q=Spanish+Town,+Jamaica",
-    "mapContext": "Spanish Town was Jamaica’s colonial capital and a key site in emancipation history."
+    "id": "dancehall_music",
+    "title": "Dancehall Music",
+    "description": "Dancehall evolved from reggae in the late 1970s, bringing faster rhythms, digital instrumentation, and bold lyrical styles. It reflects urban life, fashion, and social commentary, often performed in sound system clashes and street parties.",
+    "mapURL": "https://maps.apple.com/?q=Kingston,+Jamaica"
   },
   {
     "id": "blue_mountain_coffee",
     "title": "Blue Mountain Coffee",
-    "description": "Grown at high altitudes in misty terrain, Blue Mountain Coffee is prized for its mild flavor and low bitterness. Introduced by the British in the 18th century, it became a global luxury export. The industry supports rural livelihoods and reflects Jamaica’s agricultural heritage and international reputation.",
-    "mapURL": "https://maps.apple.com/?q=Blue+Mountains,+Jamaica",
-    "mapContext": "The Blue Mountains offer ideal conditions for coffee cultivation and scenic hiking trails."
+    "description": "Grown in the misty peaks of the Blue Mountains, this coffee is prized for its mild flavor and lack of bitterness. It’s one of the most sought-after and expensive coffees in the world, with strict export regulations and a rich farming tradition.",
+    "mapURL": "https://maps.apple.com/?q=Blue+Mountains,+Jamaica"
   },
   {
-    "id": "pardner_system",
-    "title": "Pardner Savings System",
-    "description": "Pardner is a grassroots savings method where community members contribute to a rotating fund. Managed by a trusted banker, it fosters financial discipline, trust, and mutual aid. Widely used across Jamaica, especially among informal workers, pardner reflects communal values and economic resilience.",
-    "mapURL": "https://maps.apple.com/?q=May+Pen,+Jamaica",
-    "mapContext": "May Pen is a hub of informal commerce where pardner systems thrive among market vendors."
+    "id": "jamaican_patois",
+    "title": "Jamaican Patois",
+    "description": "Jamaican Patois is a vibrant Creole language that blends English with West African syntax and vocabulary. It’s a powerful tool of identity and resistance, used in music, storytelling, and everyday conversation.",
+    "mapURL": "https://maps.apple.com/?q=Jamaica"
   },
   {
     "id": "reggae_music",
     "title": "Reggae Music",
-    "description": "Reggae emerged in the late 1960s from ska and rocksteady, blending syncopated rhythms with messages of resistance, love, and unity. Rooted in Rastafari, it became Jamaica’s global voice through artists like Bob Marley, Peter Tosh, and Burning Spear. Reggae is now a UNESCO-recognized cultural treasure.",
-    "mapURL": "https://maps.apple.com/?q=Trench+Town,+Jamaica",
-    "mapContext": "Trench Town is the birthplace of reggae, home to Bob Marley and countless musical pioneers."
+    "description": "Reggae emerged in the 1960s as a voice for the oppressed, blending ska, rocksteady, and Rastafari themes. It became a global movement through artists like Bob Marley, Peter Tosh, and Burning Spear.",
+    "mapURL": "https://maps.apple.com/?q=Nine+Mile,+Jamaica"
+  },
+  {
+    "id": "jamaican_festivals",
+    "title": "Jamaican Festivals",
+    "description": "From Carnival to Independence Day, Jamaica’s festivals celebrate music, dance, food, and national pride. Events like Reggae Sumfest and Accompong Maroon Festival showcase the island’s cultural diversity and resilience.",
+    "mapURL": "https://maps.apple.com/?q=Montego+Bay,+Jamaica"
   }
 ]
