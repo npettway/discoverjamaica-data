@@ -1,0 +1,39 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 [\
+  \{\
+    "id": "d1a1f5e2-9c3a-4f6b-8b2e-1a2c3d4e5f6a",\
+    "title": "Reggae Music",\
+    "description": "Reggae emerged in Jamaica in the late 1960s, blending ska, rocksteady, and African rhythms. It became a global voice for resistance, peace, and Rastafari philosophy.",\
+    "mapURL": "https://maps.apple.com/?q=Trench+Town,+Kingston,+Jamaica"\
+  \},\
+  \{\
+    "id": "a2b3c4d5-e6f7-4a8b-9c0d-1e2f3a4b5c6d",\
+    "title": "Jamaican Cuisine",\
+    "description": "Jamaican food is a fusion of African, Indigenous, and colonial influences. Dishes like jerk chicken, ackee and saltfish, and callaloo reflect deep cultural roots and local ingredients.",\
+    "mapURL": "https://maps.apple.com/?q=Coronation+Market,+Kingston,+Jamaica"\
+  \},\
+  \{\
+    "id": "f6e5d4c3-b2a1-4c0d-9e8f-7a6b5c4d3e2f",\
+    "title": "Rastafari",\
+    "description": "Rastafari is a spiritual movement rooted in resistance to oppression and reverence for African heritage. It emphasizes unity, natural living, and the divinity of Haile Selassie I.",\
+    "mapURL": "https://maps.apple.com/?q=Pinnacle,+St+Catherine,+Jamaica"\
+  \},\
+  \{\
+    "id": "c3d4e5f6-a1b2-4c3d-9e0f-8a7b6c5d4e3f",\
+    "title": "Maroon Heritage",\
+    "description": "The Maroons are descendants of enslaved Africans who escaped and formed independent communities. They preserved African traditions and negotiated autonomy from colonial powers.",\
+    "mapURL": "https://maps.apple.com/?q=Accompong,+Jamaica"\
+  \},\
+  \{\
+    "id": "b4c5d6e7-f8a9-4b0c-9d1e-2f3a4b5c6d7e",\
+    "title": "Dancehall Culture",\
+    "description": "Dancehall evolved from reggae, emphasizing rhythm, performance, and social commentary. It\'92s a vibrant space for fashion, identity, and community expression.",\
+    "mapURL": "https://maps.apple.com/?q=Half+Way+Tree,+Kingston,+Jamaica"\
+  \}\
+]}
