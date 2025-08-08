@@ -1,5 +1,5 @@
 [
-{,
+{
   "id": "rastafari",
   "title": "Rastafari Movement",
   "description": "Emerging in the 1930s, Rastafari is a spiritual and cultural movement rooted in resistance to colonialism and reverence for African heritage. Followers honor Emperor Haile Selassie I of Ethiopia as the divine Jah and embrace principles of unity, natural living, and repatriation. Rastafari has profoundly shaped Jamaican identity through dreadlocks, ital food, and reggae music, especially via global icons like Bob Marley.",
@@ -69,4 +69,4 @@
   "mapURL": "https://maps.apple.com/?q=Trench+Town,+Jamaica",
   "mapContext": "Trench Town is the birthplace of reggae, home to Bob Marley and countless musical pioneers."
 }
-
+]
