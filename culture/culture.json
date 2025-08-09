@@ -2,49 +2,65 @@
   {
     "id": "maroon_heritage",
     "title": "Maroon Heritage",
-    "description": "The Jamaican Maroons are descendants of Africans who escaped slavery during Spanish and British colonial rule, forming autonomous communities in Jamaica’s mountainous interior. These groups—most famously in Moore Town and Accompong—negotiated treaties with the British in the 18th century, securing land and self-governance. Maroon culture blends West and Central African traditions, including the Kromanti language, spiritual ceremonies, and the use of the abeng horn for communication.",
-    "mapURL": "https://maps.apple.com/?q=Moore+Town,+Jamaica"
+    "description": "The Jamaican Maroons are descendants of Africans who escaped slavery during Spanish and British colonial rule...",
+    "mapURL": "https://maps.apple.com/?q=Moore+Town,+Jamaica",
+    "region": "Moore Town, Accompong, Blue Mountains",
+    "history": "Established in the 17th and 18th centuries by escaped enslaved Africans. Maroons negotiated treaties with the British in 1739–1740, securing autonomy and land rights."
   },
   {
     "id": "jerk_cuisine",
     "title": "Jerk Cuisine",
-    "description": "Jerk cooking is a fiery, flavorful tradition rooted in Maroon resistance. It blends African seasoning techniques with indigenous Taino methods, using pimento wood and Scotch bonnet peppers to create smoky, spicy meats. Boston Bay in Portland is considered the birthplace of jerk, where roadside pits still serve up authentic chicken and pork.",
-    "mapURL": "https://maps.apple.com/?q=Boston+Bay,+Jamaica"
+    "description": "Jerk cooking is a fiery, flavorful tradition rooted in Maroon resistance...",
+    "mapURL": "https://maps.apple.com/?q=Boston+Bay,+Jamaica",
+    "region": "Portland, Nationwide",
+    "history": "Originated with Maroons who used pit cooking and native spices to preserve meat while evading colonial forces. Boston Bay became a hub for authentic jerk in the 20th century."
   },
   {
     "id": "rastafari_movement",
     "title": "Rastafari Movement",
-    "description": "Emerging in the 1930s, Rastafari is a spiritual and cultural movement that reveres Haile Selassie I of Ethiopia as divine. It promotes African identity, resistance to oppression, and a return to roots. Rastafari has shaped Jamaican music, language, and global consciousness—especially through reggae and icons like Bob Marley.",
-    "mapURL": "https://maps.apple.com/?q=Trench+Town,+Jamaica"
+    "description": "Emerging in the 1930s, Rastafari is a spiritual and cultural movement...",
+    "mapURL": "https://maps.apple.com/?q=Trench+Town,+Jamaica",
+    "region": "Kingston, Nationwide",
+    "history": "Founded in the 1930s by figures like Leonard Howell. Inspired by Haile Selassie I’s coronation and rooted in Pan-Africanism, anti-colonial resistance, and spiritual liberation."
   },
   {
     "id": "dancehall_music",
     "title": "Dancehall Music",
-    "description": "Dancehall evolved from reggae in the late 1970s, bringing faster rhythms, digital instrumentation, and bold lyrical styles. It reflects urban life, fashion, and social commentary, often performed in sound system clashes and street parties.",
-    "mapURL": "https://maps.apple.com/?q=Kingston,+Jamaica"
+    "description": "Dancehall evolved from reggae in the late 1970s...",
+    "mapURL": "https://maps.apple.com/?q=Kingston,+Jamaica",
+    "region": "Kingston, Spanish Town, Montego Bay",
+    "history": "Developed in late 1970s Kingston as a raw, urban evolution of reggae. Fueled by sound system culture, digital rhythms, and youth expression."
   },
   {
     "id": "blue_mountain_coffee",
     "title": "Blue Mountain Coffee",
-    "description": "Grown in the misty peaks of the Blue Mountains, this coffee is prized for its mild flavor and lack of bitterness. It’s one of the most sought-after and expensive coffees in the world, with strict export regulations and a rich farming tradition.",
-    "mapURL": "https://maps.apple.com/?q=Blue+Mountains,+Jamaica"
+    "description": "Grown in the misty peaks of the Blue Mountains...",
+    "mapURL": "https://maps.apple.com/?q=Blue+Mountains,+Jamaica",
+    "region": "St. Andrew, Portland, St. Thomas",
+    "history": "Introduced in the 18th century by British colonists. Cultivated by small farmers and cooperatives, with strict export standards established in the 20th century."
   },
   {
     "id": "jamaican_patois",
     "title": "Jamaican Patois",
-    "description": "Jamaican Patois is a vibrant Creole language that blends English with West African syntax and vocabulary. It’s a powerful tool of identity and resistance, used in music, storytelling, and everyday conversation.",
-    "mapURL": "https://maps.apple.com/?q=Jamaica"
+    "description": "Jamaican Patois is a vibrant Creole language...",
+    "mapURL": "https://maps.apple.com/?q=Jamaica",
+    "region": "Nationwide",
+    "history": "Emerged during the colonial era as enslaved Africans blended English vocabulary with African grammar. Became a symbol of cultural pride and resistance."
   },
   {
     "id": "reggae_music",
     "title": "Reggae Music",
-    "description": "Reggae emerged in the 1960s as a voice for the oppressed, blending ska, rocksteady, and Rastafari themes. It became a global movement through artists like Bob Marley, Peter Tosh, and Burning Spear.",
-    "mapURL": "https://maps.apple.com/?q=Nine+Mile,+Jamaica"
+    "description": "Reggae emerged in the 1960s as a voice for the oppressed...",
+    "mapURL": "https://maps.apple.com/?q=Nine+Mile,+Jamaica",
+    "region": "Kingston, Nine Mile, Nationwide",
+    "history": "Evolved from ska and rocksteady in 1960s Kingston. Popularized globally by Bob Marley and others, with deep ties to Rastafari and social justice."
   },
   {
     "id": "jamaican_festivals",
     "title": "Jamaican Festivals",
-    "description": "From Carnival to Independence Day, Jamaica’s festivals celebrate music, dance, food, and national pride. Events like Reggae Sumfest and Accompong Maroon Festival showcase the island’s cultural diversity and resilience.",
-    "mapURL": "https://maps.apple.com/?q=Montego+Bay,+Jamaica"
+    "description": "From Carnival to Independence Day, Jamaica’s festivals celebrate music, dance, food, and national pride...",
+    "mapURL": "https://maps.apple.com/?q=Montego+Bay,+Jamaica",
+    "region": "Montego Bay, Kingston, Accompong",
+    "history": "Rooted in colonial emancipation celebrations, religious observances, and cultural pride. Modern festivals blend traditional rituals with global music and tourism."
   }
 ]
